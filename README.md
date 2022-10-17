@@ -19,4 +19,4 @@ Use Material 3 design for UI
 Create Refresh Option in Option Menu. It will reload SMS contents in RecyclerView.
 
 ![image](https://user-images.githubusercontent.com/110648378/196111922-59016fc1-b3d3-4548-8569-cb809c0e9518.png)
-![image](https://user-images.githubusercontent.com/110648378/196112163-1db96448-5e3c-4209-9c42-7da8bc469f9a.png)
+![image](https://user-images.githubusercontent.com/110648378/196112453-02b9f52d-7ec6-40c4-a282-f09465fd94ee.png)
